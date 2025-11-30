@@ -120,7 +120,7 @@ document
     )} %0APesan: ${encodeURIComponent(message)}`;
 
     // WhatsApp number (replace with actual number)
-    const waNumber = "6282131422911"; // Replace XXXXXXXX with actual number
+    const waNumber = "6285194919373"; // Replace XXXXXXXX with actual number
 
     // Redirect to WhatsApp
     window.open(`https://wa.me/${waNumber}?text=${waMessage}`, "_blank");
